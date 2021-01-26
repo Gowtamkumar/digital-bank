@@ -1,0 +1,26 @@
+body{
+    padding:50px;
+}
+.login-area{
+    box-shadow: 5px 5px 10px 10px gainsboro;
+    padding:50px;
+    border-radius: 10px;
+}
+#transaction-ara{
+    display: none;
+}
+.withdrawDeposit{
+    margin: 0 40px;
+    padding:20px;
+    border-radius: 5px;
+    color: white;
+    box-shadow: 5px 5px 10px 10px gainsboro;
+    padding:50px;
+    border-radius: 10px;
+}
+.status{
+    margin: 0 40px;
+    padding:20px;
+    border-radius: 5px;
+    color: white;
+}
